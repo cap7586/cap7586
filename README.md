@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cap7586 27 y.o. from ARG
+- 🌱 I’m currently working on my Bachelor's thesis :) 
+- 💞️ I’m looking to collaborate on Data Science and Machine Learning stuff
+- 📫 How to reach me cap7586@thi.de
+- 😄 Pronouns: she/her
